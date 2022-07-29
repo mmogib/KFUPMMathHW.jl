@@ -1,6 +1,13 @@
 module KFUPMMathHW
 
-# Write your package code here.
+export f
+
+"""
+    f()
+
+Returns the string Hi from KFUPMMathHW.
+"""
+
 f() = "Hi from KFUPMMathHW"
 
 g() = "Hi from KFUPMMathHW AGIAN"
