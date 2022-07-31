@@ -1,9 +1,6 @@
 module KFUPMMathHW
 
-
-
-
-include("SaveResults.jl")
+include("GetResults.jl")
 
 
 end
