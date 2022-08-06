@@ -1,5 +1,17 @@
 # Changelog
 
+# [0.3.0](https://github.com/mmogib/KFUPMMathHW.jl/compare/v0.2.0...v0.3.0) (2022-08-06)
+
+
+### Bug Fixes
+
+* added new functions ([305ef84](https://github.com/mmogib/KFUPMMathHW.jl/commit/305ef84ed9a71c4674e086f3d3b015a4c00a74c3))
+
+
+### Features
+
+* added difference between bb and wa ([bc09d40](https://github.com/mmogib/KFUPMMathHW.jl/commit/bc09d40ce812741c6bf81fc928cdd33645506f47))
+
 # [0.2.0](https://github.com/mmogib/KFUPMMathHW.jl/compare/v0.1.0...v0.2.0) (2022-07-29)
 
 
